@@ -3,7 +3,7 @@
 
 title: Roburst Knowledge Base
 url: "https://support.roburst.network"
-baseurl: 
+baseurl: "/"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
