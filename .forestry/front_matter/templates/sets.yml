@@ -1,0 +1,30 @@
+---
+pages:
+- _sets/getting-started.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default
+- name: _hide_content
+  label: " hide content"
+  type: boolean
+  hidden: false
+  default: true
