@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Base
+title: Roburst Knowledge Base
 url: "https://support.roburst.network"
-baseurl:
+baseurl: "https://roburst.network"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
