@@ -1,0 +1,110 @@
+---
+pages:
+- _posts/2017-01-16-urban.md
+- _posts/2017-01-16-subscription-payments.md
+- _posts/2017-01-16-s3.md
+- _posts/2017-01-16-overview.md
+- _posts/2017-01-16-manual-payments.md
+- _posts/2017-01-16-malt.md
+- _posts/2017-01-16-justice.md
+- _posts/2017-01-16-jekyll-sitemap.md
+- _posts/2017-01-16-jekyll-search.md
+- _posts/2017-01-16-jekyll-paginate.md
+- _posts/2017-01-16-jekyll-feed.md
+- _posts/2017-01-16-invoices.md
+- _posts/2017-01-16-interface-overview.md
+- _posts/2017-01-16-installation.md
+- _posts/2017-01-16-hydra.md
+- _posts/2017-01-16-heroku.md
+- _posts/2017-01-16-google-cloud.md
+- _posts/2017-01-16-ftp.md
+- _posts/2017-01-16-frisco.md
+- _posts/2017-01-16-first-steps.md
+- _posts/2017-01-16-expired-credit-card.md
+- _posts/2017-01-16-edition.md
+- _posts/2017-01-16-creating-a-plugin.md
+- _posts/2017-01-16-cloud-flare.md
+- _posts/2017-01-16-change-password.md
+- _posts/2017-01-16-change-email.md
+- _posts/2017-01-16-cause.md
+- _posts/2017-01-16-azure.md
+- _posts/2017-01-16-add-a-credit-card.md
+- _posts/2017-01-15-why-use-a-static-site-generator.md
+- _posts/2017-01-15-layouts.md
+- _posts/2017-01-15-introduction-to-collections.md
+- _posts/2017-01-15-front-matter.md
+- _posts/2017-01-15-file-structure.md
+- _posts/2017-01-15-client-editable-jekyll-sites.md
+hide_body: false
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: video_id
+  label: Video id
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: resources
+  label: Resources
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: link
+    label: Link
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: set
+  label: Set
+  type: text
+  hidden: false
+  default: ''
+- name: set_order
+  label: Set order
+  type: text
+  hidden: false
+  default: ''
+- name: decription
+  label: Decription
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+- name: comments
+  label: Comments
+  type: boolean
+  hidden: false
+  default: true
