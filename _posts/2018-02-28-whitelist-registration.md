@@ -6,7 +6,6 @@ categories:
 description: How to join whitelist to buy pre-sale on Roburst Network
 type: Document
 ---
-# WHITE-LIST REGISTRATION
 ## Log in 
 Log in your account at [https://roburst.co](https://roburst.co).
 ## Register
