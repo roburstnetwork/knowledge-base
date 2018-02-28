@@ -1,36 +1,20 @@
 ---
 date: 2017-01-16
-title: Cause
+title: Resend activation email
 categories:
-  - themes
-description: "A not-for-profit theme for Jekyll"
+  - account
+description: How to request another activation email
 type: Document
 ---
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.
+After register on Roburst.co, if you haven't received any email from us within 10 minutes, you can do the following steps to check for your activation email.
 
-If you already have a full Ruby development environment with all headers and RubyGems installed, you can create a new Jekyll site by doing the following:
+## Check your Spam/Junk inbox
 
-## How to install
+Some email providers may treat the activation email as a spam, you can check for this mail at you Spam/Junk inbox. If there is nothing there, you can continue the next resolution.
 
-~~~ bash
-# Install Jekyll and Bundler gems through RubyGems
-~ $ gem install jekyll bundler
+## Request new activation email
 
-# Create a new Jekyll site at ./myblog
-~ $ jekyll new myblog
-
-# Change into your new directory
-~ $ cd myblog
-
-# Build the site on the preview server
-~/myblog $ bundle exec jekyll serve
-
-# Now browse to http://localhost:4000
-~~~
-
-## Next steps
-
-Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.
+To request new activation email, go to this link 
 
 ## Basic usage
 
