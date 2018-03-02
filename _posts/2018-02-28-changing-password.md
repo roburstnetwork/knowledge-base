@@ -6,7 +6,6 @@ categories:
 description: How to change your account's password
 type: Document
 ---
-# CHANGE PASSWORD
 ## Log in
 Log in your account at [https://roburst.co](https://roburst.co).
 

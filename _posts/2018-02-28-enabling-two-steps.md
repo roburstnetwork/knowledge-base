@@ -6,7 +6,6 @@ categories:
 description: How to enable two steps verification to secure your account
 type: Document
 ---
-# TWO-FACTOR SECURITY
 ## Log in
 Navigate to [https://roburst.co/login](https://roburst.co/login) and log in your account.
 ## Set up 

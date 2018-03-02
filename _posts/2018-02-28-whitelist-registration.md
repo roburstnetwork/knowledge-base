@@ -1,5 +1,5 @@
 ---
-date: 2017-01-16
+date: 2018-02-28
 title: Joining whitelist to buy pre-sale
 categories:
   - account
